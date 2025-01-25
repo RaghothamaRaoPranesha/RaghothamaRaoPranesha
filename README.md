@@ -9,7 +9,7 @@
 
 **About Me**
 
-I'm a Engineer who likes to understand how everything works and try to make them better.
+I'm an Engineer who likes to analyze and understand how things works. Finally, try to make them better.
 
 Key Skills:
 - UI Automation and much more using Python RobotFramework coupled with custom libraries.
